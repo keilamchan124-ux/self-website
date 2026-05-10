@@ -11,7 +11,7 @@ export default function Header() {
     >
       <div className="max-w-[1120px] mx-auto w-full px-6 flex justify-between items-center h-20">
         <a href="#" className="text-2xl font-bold text-primary tracking-tighter hover:opacity-80 transition-opacity">
-          KENNETH.DEV
+          Keilam C.
         </a>
         <nav className="hidden md:flex items-center gap-8 font-medium">
           <a href="#work" className="text-on-surface-variant hover:text-primary transition-colors duration-200">My Projects</a>
