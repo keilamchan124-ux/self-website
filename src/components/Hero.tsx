@@ -31,7 +31,8 @@ export default function Hero() {
           className="text-5xl md:text-7xl font-bold text-on-surface tracking-tight leading-[1.1] md:leading-[1.1]"
           variants={itemVariants}
         >
-          香港獨立 App 開發者
+          <span className="block text-primary">Keilam C.</span>
+          <span className="block">香港 App & Website Developer</span>
         </motion.h1>
         
         <motion.div className="flex flex-wrap gap-3 mt-6" variants={itemVariants}>
