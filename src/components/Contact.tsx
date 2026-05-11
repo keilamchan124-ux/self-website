@@ -97,7 +97,7 @@ export default function Contact() {
         transition={{ duration: 0.6 }}
       >
         <div className="flex flex-col gap-8 md:w-1/2">
-          <div className="flex flex-col gap-4">
+          <div className="flex flex-col gap-4 border-l-4 border-primary pl-5">
             <h2 className="text-3xl md:text-5xl font-bold text-on-surface tracking-tight">Contact</h2>
             <p className="text-on-surface-variant text-lg max-w-md leading-relaxed">
               有 App 或網站開發需求？<br />歡迎 Email 和 Whatsapp 聯絡我，一起討論。
